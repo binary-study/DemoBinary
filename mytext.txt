@@ -1,3 +1,1 @@
-This is my first text file.
-this is second line from the github.
-new change in github
+I have deleted all the content
